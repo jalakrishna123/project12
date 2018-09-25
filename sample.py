@@ -1,2 +1,3 @@
 print("wlcome to git hub")
-print("second commit")
+a="kkk"
+b="aaaa"
